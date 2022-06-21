@@ -1,6 +1,6 @@
-# Elan Formation Exercice
+# Elan Formation Exercise
 
-## POO Livre
+## OOP Livre
 
 ### What I learned:
 
